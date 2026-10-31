@@ -11,7 +11,7 @@ An interactive, graphical 3x3 **Magic Square** puzzle game and mathematical solv
 
 ---
 
-## 🌟 Overview
+## Overview
 
 A **Magic Square** is an $n \times n$ arrangement of distinct positive integers such that the sum of the integers in each row, each column, and both main diagonals equals the same constant magic number (for a $3 \times 3$ grid using numbers $1$ through $9$, the magic sum is **15**).
 
@@ -25,7 +25,7 @@ Key highlights:
 
 ---
 
-## ✨ Rules of the Game
+## Rules of the Game
 
 1. The grid consists of $3 \times 3$ cells (9 cells total).
 2. Each cell must contain a distinct integer between **1** and **9** (no duplicates).
@@ -34,7 +34,7 @@ Key highlights:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -64,7 +64,7 @@ Key highlights:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 magic-square-game/
@@ -80,7 +80,7 @@ magic-square-game/
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, enhancements, and alternative algorithmic solvers are welcome!
 1. Fork the repository.
@@ -91,7 +91,8 @@ Contributions, enhancements, and alternative algorithmic solvers are welcome!
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the [MIT License](LICENSE).
 Open source and free for educational use.
+
