@@ -2,10 +2,10 @@
 
 # بازی مربع جادویی (Magic Square Game)
 
-[![License: MIT](https://img.shields.io/badge/لایسنس-MIT-blue.svg)](LICENSE)
-[![Language: C#](https://img.shields.io/badge/زبان-C%23-239120.svg?logo=csharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![Framework: .NET WinForms](https://img.shields.io/badge/فریم‌ورک-.NET%20Windows%20Forms-512BD4.svg?logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
-[![Platform: Windows](https://img.shields.io/badge/پلتفرم-ویندوز-0078D6.svg?logo=windows&logoColor=white)](https://www.microsoft.com/windows)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Language: C#](https://img.shields.io/badge/Language-C%23-239120.svg?logo=csharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![Framework: .NET WinForms](https://img.shields.io/badge/Framework-.NET%20Windows%20Forms-512BD4.svg?logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
+[![Platform: Windows](https://img.shields.io/badge/Platform-Windows-0078D6.svg?logo=windows&logoColor=white)](https://www.microsoft.com/windows)
 
 [English](README.md) | فارسی
 
@@ -86,11 +86,12 @@ magic-square-game/
 ## مشارکت
 
 از پیشنهادات، بهبود الگوریتم حل، و گسترش بازی به ابعاد بزرگتر (مانند ۴ در ۴) استقبال می‌شود!
-۱. مخزن را فورک کنید.
-۲. یک برنچ جدید برای قابلیت خود بسازید (`git checkout -b feature/n-by-n-solver`).
-۳. تغییرات را کامیت کنید (`git commit -m 'Add support for 4x4 magic squares'`).
-۴. تغییرات را به برنچ خود پوش کنید (`git push origin feature/n-by-n-solver`).
-۵. یک پول ریکوئست (Pull Request) ارسال نمایید.
+
+1. مخزن را فورک کنید.<br>
+2. یک شاخه جدید بسازید (`git checkout -b feature/n-by-n-solver`).<br>
+3. تغییرات خود را کامیت کنید (`git commit -m "Add new feature"`).<br>
+4. تغییرات را به شاخه خود پوش نمایید (`git push origin feature/n-by-n-solver`).<br>
+5. یک Pull Request باز کنید.
 
 ---
 
